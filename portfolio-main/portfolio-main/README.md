@@ -1,13 +1,16 @@
 🤖 Introduction
-THis is a portfolio website for developers .This project is built in Next.js for handling user interface. I have used Three.js for responsive and rendering 3D elements,frame motion for beautiful animations and styled with TailwindCSS
+
+This is a portfolio website for developers .This project is built in Next.js for handling user interface. I have used Three.js for responsive and rendering 3D elements,frame motion for beautiful animations and styled with TailwindCSS
 
 ⚙️ Tech Stack
+
 Next.js
 Three.js
 Framer Motion
 Tailwind CSS
 
 🔋 Features
+
 👉 Hero: Captivating introduction featuring a spotlight effect and dynamic background.
 
 👉 Bento Grid: Modern layout presenting personal information using cutting-edge CSS design techniques.
